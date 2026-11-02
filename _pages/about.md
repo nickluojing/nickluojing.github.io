@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jing Luo, I'm an assistant professor of Operations Management at the [University of Tulsa Collins College of Business](https://utulsa.edu/academics/business/). Before joining UTulsa,  I received my Ph.D. from the University of Pittsburgh, where I was advised by Professor [Michael L. Hamilton](https://mhamilton-pitt.github.io/) and Professor [Prakash Mirchandani](https://business.pitt.edu/professors/prakash-mirchandani/). I also obtained my M.S. degrees in Applied and Computational Mathematics from [KTH Royal Institute of Technology](https://www.kth.se/en), and B.S. degrees in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/).
+Hi! I'm Jing Luo, I'm an assistant professor of Operations Management at the [University of Science and Technology Beijing). Before joining UTulsa,  I received my Ph.D. from the University of Pittsburgh, where I was advised by Professor Professor [Prakash Mirchandani](https://business.pitt.edu/professors/prakash-mirchandani/). I also obtained my M.S. degrees in Applied and Computational Mathematics from [KTH Royal Institute of Technology](https://www.kth.se/en), and B.S. degrees in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 
 My research interests focus on building and analyzing business models for problems that are related to revenue management and pricing, fairness, and market design.
