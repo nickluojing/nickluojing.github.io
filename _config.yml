@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jing Luo"
 description              : &description "personal description"
 url                      : "https://nickluojing.github.io"
-baseurl                  : "/jl.github.io"
+baseurl                  : ""
 repository               : "nickluojing/jl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
