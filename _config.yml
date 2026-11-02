@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Titing Cui"
+title                    : "Jing Luo"
 title_separator          : "-"
-name                     : &name "Titing Cui"
+name                     : &name "Jing Luo"
 description              : &description "personal description"
-url                      : https://tcui-pitt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tcui-pitt/tcui-pitt.github.io"
+repository               : "nickluojing/jl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Titing Cui"
-  avatar           : "TitingCui.jpg"
-  bio              : "Assistant Professor of Operations Management at the University of Tulsa"
-  location         : "Tulsa, OK"
+  name             : "Jing Luo"
+  avatar           : ""
+  bio              : "Assistant Professor of Operations Management at the University of "
+  location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=ZjmfCsYAAAAJ"
   email            : tic54@pitt.edu
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tcui-pitt"
+  github           : "jl"
   google_plus      :
   keybase          :
   instagram        :
