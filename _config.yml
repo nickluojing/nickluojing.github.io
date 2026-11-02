@@ -11,7 +11,7 @@ title                    : "Jing Luo"
 title_separator          : "-"
 name                     : &name "Jing Luo"
 description              : &description "personal description"
-url                      : https://jl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nickluojing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nickluojing/jl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/titing-cui-67b7b4283/"
+  LinkedIn         : ""
   orcid            : 
   pinterest        :
   soundcloud       :
